@@ -1,0 +1,10 @@
+{
+    "product":[
+        {"name":"pant","price":30,"id":0},
+        {"name":"smartPhone","price":50,"id":1},
+        {"name":"Watch","price":70,"id":2},
+        {"name":"Tv","price":20,"id":3},
+        {"name":"Ac","price":90,"id":4}
+        
+    ]
+}
